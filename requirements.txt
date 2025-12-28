@@ -1,0 +1,17 @@
+# Django Framework
+Django
+djangorestframework
+
+# PDF Processing
+pdfplumber
+Pillow
+pytesseract
+
+# Production Server
+gunicorn
+
+# Database
+psycopg2-binary
+
+# Environment Variables
+python-dotenv
