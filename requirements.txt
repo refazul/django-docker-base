@@ -2,11 +2,6 @@
 Django
 djangorestframework
 
-# PDF Processing
-pdfplumber
-Pillow
-pytesseract
-
 # Production Server
 gunicorn
 
